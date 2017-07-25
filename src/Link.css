@@ -1,0 +1,18 @@
+.colorByDefault {
+  color: blue;
+}
+
+.colorClicked {
+  color: red;
+}
+
+a {
+    color: blueviolet; 
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 20px;
+    color: blue;
+    text-decoration: initial;
+}
